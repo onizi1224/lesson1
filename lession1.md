@@ -7,7 +7,9 @@ Chris huang
 11/05/2016
 
 ## Github Username
-onizi1224
+###### onizi1224
 
 ## My Favoriate 3 Programing Languages
-Perl Java Python
+1. Perl 
+2. Java 
+3. Python
