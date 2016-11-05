@@ -1,17 +1,17 @@
-T CLASS EXERCISE 1
+# CLASS EXERCISE 1
 
-Name
+## Name
 ----
 Chris huang
 
-Date
+## Date
 ----
 11/05/2016
 
-Github Username
+## Github Username
 ---------------
 onizi1224
 
-My Favoriate 3 Programing Languages
+## My Favoriate 3 Programing Languages
 -----------------------------------
 Perl Java Python
